@@ -23,7 +23,8 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * 
- */package net.sf.seesea.provider.navigation.nmea;
+ */
+package net.sf.seesea.provider.navigation.nmea;
 
 import org.eclipse.core.runtime.Plugin;
 import org.osgi.framework.BundleContext;
